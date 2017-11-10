@@ -6,4 +6,3 @@ app.get('/',function(req,res){
   });
 
 app.listen(5000);
-console.log("port is running 5000");
